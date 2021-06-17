@@ -139,7 +139,7 @@ export default {
       weatherData: null,
       lat: null,
       lon: null,
-      apiUrl: "http://api.weatherapi.com/v1/current.json?",
+      apiUrl: "https://api.weatherapi.com/v1/current.json?",
       apiKey: "key=6d64fdaa7883482db6d161828211706"
     };
   },
